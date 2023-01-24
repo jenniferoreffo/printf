@@ -4,5 +4,5 @@ Write your own printf function.
 
 collaborators
 
-Jeniffer Oreffo
+Jennifer Oreffo
 Michael Bassy
